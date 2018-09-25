@@ -1,0 +1,3 @@
+interface IGlobalState{
+    dashboardId:string;
+  }
